@@ -1,2 +1,2 @@
 # astra-customization
-Astra WordPress Theme Customization 
+WordPress Website in Astra Theme. Complete Astra Theme Customization
